@@ -54,4 +54,3 @@ def get_vacancies_hh(language):
 
 result = get_vacancies_hh("Водитель")
 print(result)
-
